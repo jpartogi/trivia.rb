@@ -1,0 +1,4 @@
+.rvmrc
+coverage/
+.idea/
+Gemfile.lock
